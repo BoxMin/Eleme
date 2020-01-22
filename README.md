@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # eleme
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Eleme
+a project imitate from eleme
+>>>>>>> a93b22a2cca08d2aae882990615e6c2756cbbecd
